@@ -1,5 +1,5 @@
 app_name = "front_end"
-app_title = "Front End"
+app_title = "front_end"
 app_publisher = "naqeebkhan"
 app_description = "just for testing purpose"
 app_email = "naqeebkhan8262@gmail.com"
