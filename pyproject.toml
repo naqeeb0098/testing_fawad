@@ -1,9 +1,9 @@
 [project]
 name = "front_end"
 authors = [
-    { name = "naqeebkhan", email = "naqeebkhan8262"}
+    { name = "naqeebkhan", email = "naqeebkhan8262@gmail.com"}
 ]
-description = "just for testing purpose creation"
+description = "just for testing purpose"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

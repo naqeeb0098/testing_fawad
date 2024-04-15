@@ -1,8 +1,8 @@
 app_name = "front_end"
-app_title = "front_end"
+app_title = "Front End"
 app_publisher = "naqeebkhan"
-app_description = "just for testing purpose creation"
-app_email = "naqeebkhan8262"
+app_description = "just for testing purpose"
+app_email = "naqeebkhan8262@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>

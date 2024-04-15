@@ -1,6 +1,6 @@
-## front_end
+## Front End
 
-just for testing purpose creation
+just for testing purpose
 
 #### License
 
